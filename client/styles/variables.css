@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+/* color */
+:root {
+    --primary__color: #FE8532;
+    --darker__primary__color: #fd7213;
+    /* fonts */
+    --primary__font: 'PT Sans', sans-serif;
+    font-size: 62.5%!important;
+    /* medias breakpoint */
+    --screen-xs: 576px;
+    --screen-sm: 768px;
+    --screen-md: 992px;
+    --screen-lg: 1200px;
+}
