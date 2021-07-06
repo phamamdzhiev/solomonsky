@@ -5,8 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fc1c9b8-8bf4-4223-a3f1-7a5c44e1e269" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/public/assets/icons/contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/public/assets/icons/pin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/public/assets/images/business-document.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/public/assets/images/image_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/public/assets/images/image_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/public/assets/images/image_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/public/assets/images/image_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/public/assets/images/index-countries/egypt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/public/assets/images/index-countries/exotic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/public/assets/images/index-countries/italy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/public/assets/images/index-countries/maroco.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/public/assets/images/index-countries/spain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/public/assets/images/index-countries/tunis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/public/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/public/assets/images/pay-cards.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/resources/sass/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/resources/sass/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/resources/views/layout.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/lsapp/resources/views/pages/about.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/styles/mainsheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/styles/mainsheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hosting/main-services.php" beforeDir="false" afterPath="$PROJECT_DIR$/hosting/main-services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/holidays.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/holidays.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +75,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/laravel/lsapp" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -87,7 +110,10 @@
       <workItem from="1624710556065" duration="1328000" />
       <workItem from="1624711992944" duration="11929000" />
       <workItem from="1624742077555" duration="140000" />
-      <workItem from="1624779773948" duration="27574000" />
+      <workItem from="1624779773948" duration="28686000" />
+      <workItem from="1624873637426" duration="625000" />
+      <workItem from="1625049142110" duration="262000" />
+      <workItem from="1625069689031" duration="6497000" />
     </task>
     <servers />
   </component>
@@ -104,5 +130,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

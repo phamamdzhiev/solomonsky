@@ -151,8 +151,8 @@ header.header {
 }
 
 #toggle-mobile-nav:hover {
-    transform: scale(1.1);
-    cursor: pointer;
+        transform: scale(1.1);
+        cursor: pointer;
 }
 
 #toggle-mobile-nav .bar {
